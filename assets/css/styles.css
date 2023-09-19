@@ -9,7 +9,7 @@ header {
 }
 
 header [class^="col"] {
-    background-color: blue;
+    background-color: rgb(135, 10, 146);
     border: 1px solid red;
 }
 
