@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 250svh;
+}
+header {
+    
+    background-color: lightsalmon;
+}
+
+header [class^="col"] {
+    background-color: blue;
+    border: 1px solid red;
+}
+
+main {
+    height: 60%;
+    background-color: lightcyan;
+}
+main > h1 {
+    margin: 0;
+}
+main > [class^="container"]{
+    background-color: aquamarine;
+    border: 1px solid white;
+}
+.pepe {
+    height: 150px;
+    aspect-ratio: 1;
+    background-color: blue;
+    border-radius: 1rem;
+    display: inline-block;
+}
+
+footer {
+    height: 20%;
+    background-color: lightgreen;
+} 
+.carousel {
+    margin-top: 30px;
+    width: 50%px;
+    display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  
+ }
+ .Portfolio {
+    padding-top: 50px;
+    
+    text-align: center !important;
+  }
+  
+
