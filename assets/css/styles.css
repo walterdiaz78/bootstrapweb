@@ -27,7 +27,7 @@ main > [class^="container"]{
 .pepe {
     height: 150px;
     aspect-ratio: 1;
-    background-color: blue;
+    background-color: rgb(135, 10, 146);
     border-radius: 1rem;
     display: inline-block;
 }
